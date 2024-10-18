@@ -1,1 +1,1 @@
-# Automated-Blood-Cell-Detection-Using-Image-Segmentation
+# This is a machine learning project, which takes annotated blood smear images and tells with 99.52% accuracy what the blood cell type is. This project finds use in early detection of diseases by using peripheral blood smear images.
